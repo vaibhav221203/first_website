@@ -1,0 +1,2 @@
+strong:-> It is an in line operator use for bold the letters
+em:-> It will emphasize the letters means it convert the letters in italic font

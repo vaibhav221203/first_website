@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    
+
+<head>
+    <title>Vaibhav Shinde</title>
+    <meta charset="UTF-8">
+    <link rel="icon" href="vaibhav shinde (1)-modified.png" type="image/x-icon">
+    <link rel="stylesheet" href="css/styles.css">
+
+</head>
+
+
+
+<body>
+    <table cellspacing="20">
+        <tr>
+            <td><img width="300" height="300" src="vaibhav shinde (1)-modified.png" sizes="1"
+                    alt="Vaibhav shinde profile pic"></td>
+
+
+            <td>
+                <h1>VAIBHAV SHINDE</h1>
+                <p><em>Student at <a href="https://pict.edu/"> Pune institute of computer technology</a>
+
+                    </em></p>
+                <a href="contact.html">Contact Details</a>
+                <p>
+                    <em>
+                        Branch:-Electronics and telecommunication
+                    </em>
+                </p>
+            </td>
+        </tr>
+    </table>
+
+
+
+    <hr>
+
+    <h3>Books and reference</h3>
+    <ul>
+        <li>Electronics and telecommunication</li>
+        <li><a href="https://www.amazon.in/Books-R-P-Jain/s?rh=n%3A976389031%2Cp_27%3AR+P+Jain">R.P.Jain</a> <em>Digital
+                circuit</em></li>
+    </ul>
+    <ol type="i">
+        <li>Marks Johnson<em>Electronic circuits</em></li>
+        <li>Roberts Yu</li>
+    </ol>
+    <hr>
+    <table border="1">
+        <thead>
+            <tr>
+                <th> year</th>
+                <th> Work</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>2013</td>
+                <td>Google</td>
+            </tr>
+            <tr>
+                <td>2016</td>
+                <td>Microsoft</td>
+            </tr>
+            <tr>
+                <td>2020</td>
+                <td>Mastercard</td>
+            </tr>
+        </tbody>
+        <tfoot>
+
+        </tfoot>
+    </table>
+    <hr>
+
+    <table cellspacing="10">
+        <h3>Skills</h3>
+        <tr>
+            <td>
+                <table cellspacing="10">
+                    <tr>
+                        <td>
+                            Web development
+                        </td>
+                        <td>⭐⭐⭐⭐</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            map development
+                        </td>
+                        <td>⭐⭐⭐⭐</td>
+                        
+                    </tr>
+                    <tr>
+                        <td>
+                            rap development
+                        </td>
+                        <td>⭐⭐⭐</td>
+                    </tr>
+                </table>
+            </td>
+            <td>
+                <table cellspacing="10">
+                    <tr>
+                        <td>
+                            tap development
+                        </td>
+                        <td>⭐⭐⭐⭐</td>
+
+                    </tr>
+                    <tr>
+                        <td>
+                            swap development
+                        </td>
+                        <td>⭐⭐⭐⭐</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            app development
+                        </td>
+                        <td>⭐⭐⭐⭐</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+
+    </table>
+    <hr>
+</body>
+
+</html>

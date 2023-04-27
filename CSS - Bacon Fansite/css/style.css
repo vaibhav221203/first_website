@@ -1,0 +1,29 @@
+body{
+    background-color: green;
+
+}
+/* h1:hover{
+    
+    color: black;
+    font-size: 200px;
+    
+} */
+img:hover{
+    background-color: gold;
+}
+.tree{
+    background-color: black;
+}
+.vaibhav{
+    background-color: darkmagenta;
+}
+
+#heading{
+    color: red;
+}
+#double_heading{
+    color: mediumblue;
+}
+.hexagonal{
+    border-block: 5px dashed blue;
+}

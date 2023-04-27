@@ -1,0 +1,22 @@
+body{
+    background-color: #678983;
+
+}
+h1{
+    color: rgb(217, 240, 240);
+
+}
+h3{
+    color: blanchedalmond;
+}
+hr{
+    /* border-style: none; */
+    color:rgb(170, 168, 168);
+    border-style:none;
+    border-top-style: dotted;
+    
+    /* height: 8px; */
+    
+    width: 7%;
+    border-width: 5px;
+}
